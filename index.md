@@ -1,5 +1,5 @@
 ---
-title: Lerntagebuch
+title: Lerntagebuch für den Kurs Bibliotheks- und Archivinformatik
 ---
 
 ## Willkommen zu meinem Lerntagebuch
