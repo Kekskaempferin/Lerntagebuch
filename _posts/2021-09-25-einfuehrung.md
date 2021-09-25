@@ -1,5 +1,5 @@
 ---
-<h2> "Einführungsartikel" </h2>
+title: "Einführungsartikel" 
 date: 2021-09-25
 ---
 
