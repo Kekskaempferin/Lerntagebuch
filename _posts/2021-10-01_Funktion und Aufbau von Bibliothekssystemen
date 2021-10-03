@@ -5,3 +5,19 @@ date: 2021-09-25
 
 Notizen:
   Übung zu Git noch machen
+  
+  
+Marc21 als weitverbreteter aber veralteter Standard für Metadaten in Bibliotheken
+  Nachteil: keine Sprechenden Namen sondern nur Zahlencodes
+  Vorteil: Weitverbreitet
+
+Vergleich Marc & Dublin Core
+
+  M ist viel umfangreicher
+  M schwerer menschenlesbar
+  DC simpler/generischer aber M spezifischer für Bib
+  M strukturierter
+  
+  
+OpenSource bibliothekssytem Koha
+  auf der VM instalieren (nicht die Demo Version)
