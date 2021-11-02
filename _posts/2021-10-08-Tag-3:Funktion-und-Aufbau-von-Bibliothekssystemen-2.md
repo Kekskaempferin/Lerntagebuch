@@ -1,5 +1,5 @@
 ---
-title: "Einführungsartikel" 
+title: "Tag-3: Funktion und Aufbau von Bibliothekssystemen 2" 
 date: 2021-09-15
 ---
 
