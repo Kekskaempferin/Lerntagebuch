@@ -1,3 +1,8 @@
+---
+title: "Test" 
+date: 2021-11-02
+---
+
 Übung: Vergleich MARC21 und Dublin Core
 
     Dublin Core ist ein Standard, der als kleinster gemeinsamer Nenner gilt
