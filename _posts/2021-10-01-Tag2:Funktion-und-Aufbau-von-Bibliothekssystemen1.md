@@ -1,5 +1,5 @@
 ---
-title: "Funktion und Aufbau von Bibliothekssystemen" 
+title: "Tag 2: Funktion und Aufbau von Bibliothekssystemen 1" 
 date: 2021-10-01
 ---
 
