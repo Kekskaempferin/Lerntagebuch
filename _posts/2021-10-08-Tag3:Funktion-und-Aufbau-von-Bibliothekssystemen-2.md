@@ -1,6 +1,6 @@
 ---
-title: "Tag-3: Funktion und Aufbau von Bibliothekssystemen 2" 
-date: 2021-09-15
+title: "Tag 3: Funktion und Aufbau von Bibliothekssystemen 2" 
+date: 2021-10-08
 ---
 
 Zu Beginn dieser Vorlesung musste ich feststellen, dass ich Koha nicht mer öffnen konnte. Was ich zunächst für einen Fehler meinerseits bei der Installation gehalten habe, stelle sich schliesslich aber als Routine-Problem heraus. Durch den Neustart von Koha über die Kommandozeile konnte ich das Problem schnell lösen.
