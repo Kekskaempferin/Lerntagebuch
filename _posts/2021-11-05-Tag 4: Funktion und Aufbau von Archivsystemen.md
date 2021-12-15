@@ -1,5 +1,5 @@
 ---
-titel: «Tag 4: Funktion und Aufbau von Archivsystemen»
+titel: "Tag 4: Funktion und Aufbau von Archivsystemen"
 date: 2021-11-05
 ---
 
