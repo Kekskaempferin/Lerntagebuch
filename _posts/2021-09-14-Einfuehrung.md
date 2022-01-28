@@ -1,6 +1,6 @@
 ---
 title: "Einführungsartikel" 
-date: 2021-09-15
+date: 2021-09-14
 ---
 
 Der folgende Eintrag ist der erste Eintrag in meinem Lerntagebuch zum Kurs Bibliotheks- und Archivinformatik und stellt meine Startposition dar. 
