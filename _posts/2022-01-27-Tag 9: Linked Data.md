@@ -2,7 +2,7 @@
 
 titel: "Tag 9: Linked Data"
 
-date: 2022-27-01
+date: 2022-01-27
 
 ---
 
