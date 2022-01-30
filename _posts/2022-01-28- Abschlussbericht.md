@@ -1,6 +1,6 @@
 ---
 
-titel: "Abschlussbericht"
+title: "Abschlussbericht"
 
 date: 2022-01-28
 
