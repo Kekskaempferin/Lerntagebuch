@@ -1,6 +1,6 @@
 ---
 
-titel: "Tag 7: Metadaten modellieren und Schnittstellen nutzen 2"
+title: "Tag 7: Metadaten modellieren und Schnittstellen nutzen 2"
 
 date: 2021-12-03
 
