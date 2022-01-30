@@ -1,6 +1,6 @@
 ---
 
-titel: "Übung: Konfiguration der Suche und der Facetten in VuFind"
+title: "Übung: Konfiguration der Suche und der Facetten in VuFind"
 
 date: 2022-01-23
 
