@@ -1,6 +1,6 @@
 ---
 
-titel: "Übung zur OAI-PMH-Schnittstelle "
+title: "Übung zur OAI-PMH-Schnittstelle "
 
 date: 2021-12-20
 
